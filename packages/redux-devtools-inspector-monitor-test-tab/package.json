@@ -90,7 +90,7 @@
     "eslint-plugin-jest": "^24.4.0",
     "eslint-plugin-react": "^7.25.1",
     "fork-ts-checker-webpack-plugin": "^6.3.3",
-    "history": "^4.10.1",
+    "history": "^5.0.1",
     "html-webpack-plugin": "^5.3.2",
     "immutable": "^4.0.0-rc.14",
     "jest": "^27.2.0",
